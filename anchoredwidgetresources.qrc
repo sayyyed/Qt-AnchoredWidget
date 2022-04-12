@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>AnchoredWidgetResources/horizontal_3_lines.png</file>
+        <file>AnchoredWidgetResources/vertical_3_lines.png</file>
+    </qresource>
+</RCC>
